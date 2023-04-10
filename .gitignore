@@ -1,0 +1,8 @@
+public/cache
+public/composer.lock
+public/config.php
+public/history.log
+public/themes/bardicspace.data
+public/uploads
+public/vendor
+
